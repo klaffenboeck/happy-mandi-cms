@@ -4,7 +4,7 @@ Locomotive.configure do |config|
   # If you want to run many different websites, you will have to specify
   # your own domain name (ex: locomotivehosting.com).
   #
-  Ex:
+  #Ex:
   config.multi_sites do |multi_sites|
     # each new website you add will have a default entry based on a subdomain
     # and the multi_site_domain value (ex: website_1.locomotivehosting.com).
